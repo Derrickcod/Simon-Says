@@ -10,6 +10,7 @@ import UIKit
 
 class CircularButton: UIButton {
     
+    // Class makes buttons round
     override func awakeFromNib() {
         layer.cornerRadius = frame.size.width/2
         layer.masksToBounds = true
