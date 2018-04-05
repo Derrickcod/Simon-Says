@@ -12,6 +12,7 @@
 		59E3329720767C06001D9DCE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 59E3329520767C06001D9DCE /* Main.storyboard */; };
 		59E3329920767C09001D9DCE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 59E3329820767C09001D9DCE /* Assets.xcassets */; };
 		59E3329C20767C09001D9DCE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 59E3329A20767C09001D9DCE /* LaunchScreen.storyboard */; };
+		59E332A420768637001D9DCE /* CircularButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59E332A320768637001D9DCE /* CircularButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		59E3329820767C09001D9DCE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		59E3329B20767C09001D9DCE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		59E3329D20767C09001D9DCE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		59E332A320768637001D9DCE /* CircularButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				59E3329120767C06001D9DCE /* AppDelegate.swift */,
 				59E3329320767C06001D9DCE /* ViewController.swift */,
+				59E332A320768637001D9DCE /* CircularButton.swift */,
 				59E3329520767C06001D9DCE /* Main.storyboard */,
 				59E3329820767C09001D9DCE /* Assets.xcassets */,
 				59E3329A20767C09001D9DCE /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				59E3329420767C06001D9DCE /* ViewController.swift in Sources */,
 				59E3329220767C06001D9DCE /* AppDelegate.swift in Sources */,
+				59E332A420768637001D9DCE /* CircularButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
